@@ -1,4 +1,4 @@
-# murmur
+# Push-to-Talk Application for Macbooks
 
 Push-to-talk dictation for macOS. Hold a key, talk, release, and cleaned-up text
 lands in whatever window has focus. Local transcription by default, so audio
