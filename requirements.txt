@@ -1,0 +1,14 @@
+# core
+rumps>=0.4.0
+pyobjc-framework-Cocoa>=10.0
+pyobjc-framework-Quartz>=10.0
+sounddevice>=0.4.6
+numpy>=1.26
+requests>=2.31
+
+# default local ASR (Apple Silicon)
+mlx-whisper>=0.4.0
+
+# optional alternates
+# faster-whisper>=1.0.0   # CPU / Intel Macs
+# openai>=1.30.0          # cloud ASR
